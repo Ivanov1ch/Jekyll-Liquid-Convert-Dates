@@ -1,5 +1,5 @@
 # Jekyll-Liquid-Convert-Dates
-A collection of Jekyll plugins related to the conversion of Jekyll posts' dates to other formats. This repository be updated as I develop more plugins for my personal projects.
+A collection of Jekyll plugins related to the conversion of Jekyll posts' dates to other formats. This repository will be updated as I develop more plugins for my personal projects.
 
 ## Plugin Installation
 To install any of my plugins, follow the following steps:
